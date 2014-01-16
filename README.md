@@ -49,8 +49,8 @@ Forked from the excellent [Airbnb JavaScript Style Guide](https://github.com/air
     + `undefined`
 
     ```javascript
-    var foo = 1,
-        bar = foo;
+    var foo = 1;
+    var bar = foo;
 
     bar = 9;
 
